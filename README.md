@@ -28,7 +28,7 @@ Beautiful, fully functional Todo List app built with Flutter.
 
 ## 🎥 Watch Tutorial
 
-**YouTube:** [CodeWithAamir](https://youtube.com/https://youtube.com/@codewithAamir-0)
+**YouTube:** [CodeWithAamir-0](https://youtube.com/https://youtube.com/@CodewithAmir-0)
 
 ---
 
