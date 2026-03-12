@@ -1,17 +1,46 @@
-# todolist
+# ✅ Flutter Todo App
 
-A new Flutter project.
+Beautiful, fully functional Todo List app built with Flutter.
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)](https://dart.dev)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Add, edit, delete tasks
+- ✅ Mark complete with animation
+- ✅ Swipe to delete
+- ✅ Empty state UI
+- ✅ Clean, modern design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-todo-app
+---
+
+## 📸 Preview
+
+| Home | Add Task | Complete |
+|------|----------|----------|
+| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Done](screenshots/done.png) |
+
+---
+
+## 🎥 Watch Tutorial
+
+**YouTube:** [CodeWithAamir](https://youtube.com/@CodeWithAamir)
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# Clone
+git clone https://github.com/Aamirsiddique09/flutter-todo-app.git
+
+# Install
+cd flutter-todo-app
+flutter pub get
+
+# Run
+flutter run
