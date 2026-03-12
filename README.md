@@ -22,7 +22,7 @@ Beautiful, fully functional Todo List app built with Flutter.
 
 | Home | Add Task | Complete |
 |------|----------|----------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Done](screenshots/done.png) |
+| ![Home](assets/authScreen.png) | ![Add](assets/cal.png) | ![Done](assets/home.png) |
 
 ---
 
